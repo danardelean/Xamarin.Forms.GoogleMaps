@@ -14,9 +14,9 @@
 
   <Import Project="$(ProjectDir)XFGoogleMapSample.CopyFile.targets" />
 
-  <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="3.0.0.482510" />
-  </ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="Xamarin.Forms" Version="5.0.0.2337" />
+	</ItemGroup>
   <ItemGroup>
     <Compile Remove="Properties\AssemblyInfo.cs" />
     <Compile Remove="Variables_sample.cs" />
